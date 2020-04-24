@@ -14,6 +14,7 @@ namespace TerminalProject
             Console.WriteLine("B");
             Console.WriteLine("C");
             Console.WriteLine("D");
+            Console.WriteLine("E");
         }
     }
 }
