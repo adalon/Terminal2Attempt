@@ -11,6 +11,8 @@ namespace TerminalProject
         static void Main(string[] args)
         {
             Console.WriteLine("A");
+            Console.WriteLine("B");
+            Console.WriteLine("C");
         }
     }
 }
